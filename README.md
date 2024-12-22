@@ -16,3 +16,6 @@ Transformed data will be loaded into Google BigQuery, where it will be stored in
 
 **Pipeline Orchestration with Airflow**
 The entire ETL workflow will be automated using Apache Airflow, orchestrated via Cloud Composer. This ensures that the extraction, transformation, and loading processes run reliably, efficiently, and on schedule.
+
+**Data Visualization with Looker**
+Looker will be integrated into the pipeline to provide advanced data visualization and reporting capabilities. This allows stakeholders to derive insights from the data loaded into BigQuery, enabling informed decision-making through dynamic and interactive dashboards.
